@@ -12,9 +12,6 @@ Flutter Developer with 2+ years of experience building clean, scalable, and high
 ![](https://nirzak-streak-stats.vercel.app/?user=smtalha5654&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smtalha5654&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smtalha5654&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=smtalha5654&icon=0&color=0)](https://visitcount.itsvg.in)
 
