@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter Developer with 2+ years of experience building clean, scalable, and high-performance mobile applications.<br>Strong focus on code quality, maintainability, and architecture.<br>Hands-on experience with Flutter & Dart, state management (GetX, Provider, Riverpod, BLoC), and API-driven apps.<br>Always learning and improving toward production-grade Flutter engineering.
+Flutter Developer with 3+ years of experience building clean, scalable, and high-performance mobile applications.<br>Strong focus on code quality, maintainability, and architecture.<br>Hands-on experience with Flutter & Dart, state management (GetX, Provider, Riverpod, BLoC), and API-driven apps.<br>Always learning and improving toward production-grade Flutter engineering.
 
 
 ## 🌐 Socials:
